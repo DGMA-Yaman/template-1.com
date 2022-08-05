@@ -1,0 +1,324 @@
+/* Divider */
+.elementor-divider {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator,
+.elementor-divider-separator {
+	border-color: #e0e1e4;
+}
+/* Media Carousel */
+.swiper-pagination-bullet {
+	width: 10px;
+	height: 10px;
+	border: 1px solid #000;
+	background: none;
+	opacity: 1;
+}
+.swiper-pagination-bullet-active {
+	background: #000;
+	opacity: 1;
+}
+.elementor-skin-carousel .elementor-main-swiper,
+.elementor-skin-coverflow .elementor-main-swiper {
+	height: 240px;
+}
+.elementor-skin-carousel.elementor-pagination-position-outside .swiper-container,
+.elementor-skin-coverflow.elementor-pagination-position-outside .swiper-container {
+	padding-bottom: 40px;
+}
+
+/* Price List */
+.elementor-price-list .elementor-price-list-item .elementor-price-list-header {
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 0;
+}
+.elementor-price-list .elementor-price-list-item .elementor-price-list-separator {
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+/* Price Table */
+.elementor-price-table .elementor-price-table__header {
+    background: #1a1f2f;
+    padding: 40px 0;
+}
+.elementor-price-table .elementor-price-table__price {
+    color: #020613;
+    font-weight: 700;
+	font-size: 48px;
+}
+.elementor-price-table .elementor-price-table__currency {
+    font-size: inherit;
+}
+.elementor-price-table .elementor-price-table__price .elementor-typo-excluded {
+    margin-top: 8px;
+}
+.elementor-price-table .elementor-price-table__features-list {
+    min-height: 120px;
+}
+.elementor-price-table .elementor-price-table__features-list li {
+	padding: 6px 0;
+}
+.elementor-price-table__footer .elementor-button.elementor-size-md {
+    padding-top: 12.5px;
+	padding-bottom: 12.5px;
+	min-width: auto;
+}
+
+/* Image Box */
+.elementor-widget-image-box .elementor-widget-container {
+    border: 1px solid #efeff0;
+}
+.elementor-image-box-wrapper {
+    line-height: 0;
+}
+.elementor-image-box-content {
+    line-height: 1.8;
+    padding: 20px;
+}
+.elementor-image-box-title {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+/* Image Gallery */
+.elementor-widget-wp-widget-media_gallery img,
+.elementor-widget-image-gallery img {
+    border: none!important;
+}
+.elementor-widget-ff-gallery .item {
+	display: inline-block;
+}
+
+/* Image Carouesl */
+.elementor-slick-slider .slick-next:before,
+.elementor-slick-slider .slick-prev:before {
+    color: #181d2b;
+}
+.elementor-slick-slider .slick-arrows-inside .slick-prev {
+    left: 0;
+}
+.elementor-slick-slider .slick-arrows-inside .slick-next {
+    right: 0;
+}
+.elementor-slick-slider .slick-arrows-inside {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Counter */
+.elementor-counter .elementor-counter-title {
+    font-size: 22px;
+	font-weight: 700;
+	color: inherit;
+}
+.elementor-counter .elementor-counter-number-wrapper {
+    font-weight: 700;
+    color: inherit;
+}
+
+/* Countdown */
+.elementor-widget-countdown .elementor-countdown-item:not(:last-child) {
+    margin-right: 24px;
+}
+.elementor-widget-countdown .elementor-countdown-item {
+    border: 1px solid #E0E1E4;
+    border-radius: 3px;
+	background-color: #fff;
+	box-shadow: 0 7px 34px 0 rgba(2,6,19,0.12);
+}
+.elementor-widget-countdown .elementor-countdown-item {
+    color: inherit;
+    padding: 40px 0;
+}
+.elementor-widget-countdown .elementor-countdown-digits {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.elementor-widget-countdown .elementor-countdown-label {
+    font-size: 22px;
+	font-weight: 700;
+}
+
+/* Progressbar */
+.elementor-progress-wrapper {
+    height: 40px;
+    line-height: 40px;
+    border-radius: 0;
+	background-color: #f5f6f8;
+}
+.elementor-progress-bar {
+    font-size: 15px;
+    background-color: #40c5f7;
+}
+.elementor-progress-text {
+    padding-left: 18px;
+}
+
+/* Accordion */
+.elementor-tab-title a {
+    font-weight: 700;
+}
+.elementor-accordion .elementor-accordion-item {
+	margin-bottom: 10px;
+}
+.elementor-accordion .elementor-accordion-item+.elementor-accordion-item {
+	border: 1px solid #d4d4d4;
+}
+.elementor-accordion .elementor-tab-title {
+	padding: 22px 40px;
+}
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon {
+    width: 30px;
+}
+
+/* Tabs */
+.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active {
+	background: #fff;
+	box-shadow: 0 0px 15px 0 rgba(2,6,19,0.12);
+}
+.elementor-widget-tabs .elementor-tabs-content-wrapper {
+    box-shadow: 0 0px 15px 0 rgba(2,6,19,0.12);
+}
+.tabs-mobile-dropdown .tabs-dropdown {
+	display: none;
+}
+.elementor-tab-mobile-title{
+	background: #2CC6FA;
+	color: #fff;
+	text-transform: uppercase;
+	position: relative;
+	transition: all 0.3s ease;
+	padding: 11px 15px !important;
+}
+.elementor-tab-mobile-title:hover,
+.elementor-tab-mobile-title.elementor-active{
+    background: #178DB5;
+}
+.elementor-tab-mobile-title:hover:after{
+	right: 10px;
+}
+
+.tabs-dropdown select{
+	width: 100%;
+	color: #fff;
+    outline: none;
+    line-height: 1;
+    padding: 14px 15px;
+    border: 1px solid #E0E1E4;
+    box-sizing: border-box;
+    border-radius: 0;
+    max-width: 100%;
+    position: relative;
+    background: url(../images/chevron-down@2x.png) no-repeat;
+    background-size: 12px 12px;
+	background-position: 97% 50%;
+	background-color: #2CC6FA;
+	transition: all 0.3s ease;
+	cursor: pointer;
+
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+.tabs-dropdown select:hover{
+    background-color: #178DB5;
+    background-position: 98% 50%;
+}
+.tabs-dropdown select option{
+	background: #fff;
+	color: #020612;
+}
+
+/* Toggle */
+.elementor-toggle .elementor-tab-title {
+    border-bottom: 2px solid #efeff0;
+    padding: 18px 25px;
+}
+.elementor-toggle .elementor-tab-title .elementor-toggle-icon {
+    width: 25px;
+}
+
+/* Alert */
+.elementor-alert {
+    border-width: 14px;
+	padding: 20px 34px 25px;
+}
+.elementor-alert .elementor-alert-title {
+    font-size: 24px;
+}
+.elementor-alert .elementor-alert-description {
+    font-size: 15px;
+}
+.elementor-alert button.elementor-alert-dismiss {
+    font-size: 25px; 
+}
+.elementor-alert.elementor-alert-danger {
+    color: #f67d5d;
+    border-color: #f67d5d;
+    background-color: #fff8f7;
+}
+.elementor-alert.elementor-alert-success {
+    color: #86D13A;
+    border-color: #86D13A;
+    background-color: #f9fcf6;
+}
+
+/* Video */
+.elementor-widget-video .elementor-widget-container {
+    box-shadow: 0 0 17px 0 rgb(2 6 19 / 12%);
+    padding: 20px;
+}
+
+/* Menu */
+/* .custom-elementor-header .elementor-nav-menu > li > a,
+.custom-elementor-header .elementor-nav-menu > li > a.highlighted,
+.custom-elementor-header .elementor-nav-menu > li > a:focus,
+.custom-elementor-header .elementor-nav-menu > li > a:hover {
+	padding: 0 0px 10px;
+}
+.custom-elementor-header .elementor-nav-menu > li > a {
+	font-size: 14px;
+	margin: 0 25px;
+}
+.elementor-nav-menu--main .elementor-nav-menu > li:last-child > a {
+	margin-right: 0;
+}
+.elementor-nav-menu .sub-menu li {
+	border-bottom: 1px solid #F5F6F8;
+}
+.custom-elementor-header .elementor-nav-menu .sub-menu a,
+.custom-elementor-header .elementor-nav-menu .sub-menu a.highlighted,
+.custom-elementor-header .elementor-nav-menu .sub-menu a:focus,
+.custom-elementor-header .elementor-nav-menu .sub-menu a:hover {
+	padding: 10px 20px;
+} */
+
+.elementor-nav-menu--dropdown .elementor-item.elementor-item-active,
+.elementor-nav-menu--dropdown .elementor-item.highlighted,
+.elementor-nav-menu--dropdown .elementor-item:focus,
+.elementor-nav-menu--dropdown .elementor-item:hover,
+.elementor-sub-item.elementor-item-active,
+.elementor-sub-item.highlighted,
+.elementor-sub-item:focus,
+.elementor-sub-item:hover {
+	background: #fff;
+	color: inherit;
+	text-decoration: underline;
+}
+
+.e--pointer-underline .elementor-item:after {
+    width: 0;
+    left: 0;
+    transform: translateX(-50%);
+    height: 2px;
+    background-color: #20A7D5;
+	display:none;
+}
+.e--pointer-underline .elementor-item.highlighted:after,
+.e--pointer-underline .elementor-item:hover:after {
+    width: 100%;
+}

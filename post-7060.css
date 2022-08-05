@@ -1,0 +1,181 @@
+.elementor-7060 .elementor-element.elementor-element-da9ac7c > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-7060 .elementor-element.elementor-element-6110c60 > .elementor-element-populated{padding:50px 200px 100px 50px;}.elementor-7060 .elementor-element.elementor-element-03e5df7 .elementor-heading-title{font-size:32px;font-weight:800;}.elementor-7060 .elementor-element.elementor-element-bf846ab:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-7060 .elementor-element.elementor-element-bf846ab > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBDBD7;}.elementor-7060 .elementor-element.elementor-element-bf846ab > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-7060 .elementor-element.elementor-element-bf846ab > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7060 .elementor-element.elementor-element-be9149b{z-index:2;}#elementor-popup-modal-7060 .dialog-message{width:1000px;height:auto;}#elementor-popup-modal-7060{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-7060 .dialog-close-button{display:block;}#elementor-popup-modal-7060 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(min-width:767px){.elementor-7060 .elementor-element.elementor-element-6110c60{width:70%;}.elementor-7060 .elementor-element.elementor-element-bf846ab{width:30%;}}@media(max-width:1022px){.elementor-7060 .elementor-element.elementor-element-6110c60 > .elementor-element-populated{padding:40px 170px 40px 40px;}.elementor-7060 .elementor-element.elementor-element-6110c60{z-index:2;}}@media(max-width:766px){.elementor-7060 .elementor-element.elementor-element-6110c60 > .elementor-element-populated{padding:70px 15px 40px 15px;}.elementor-7060 .elementor-element.elementor-element-03e5df7 .elementor-heading-title{font-size:28px;}}/* Start custom CSS for heading, class: .elementor-element-03e5df7 */.elementor-7060 .elementor-element.elementor-element-03e5df7 span{
+    color: #F9C3BC;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-10382f8 */.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper{
+    margin:0 !important;
+}
+
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_fields ul li,.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_fields .gfield,.elementor-7060 .elementor-element.elementor-element-10382f8 div.gform_wrapper .gform_footer{
+    padding-left:0 !important;
+}
+
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_button{
+
+  font-size: 13px !important;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 16px;
+  text-align: center;
+  max-width:182px;
+    width: 100% !important;
+    padding: 16px 0 !important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 div.gform_wrapper .gform_footer,.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper ul li.gfield{
+    margin-top:0 !important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper ul li.gfield{
+    margin-bottom:4px !important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper textarea.medium{
+    height:130px;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper .top_label .gfield_label,.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper legend.gfield_label{
+  color: #100040 !important;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 21px;
+      font-family: "Gilroy", Sans-serif;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 input,.elementor-7060 .elementor-element.elementor-element-10382f8 textarea{
+    padding-left:15px !important;
+    border:none !important;
+    border-bottom: 1px solid #100040 !important;
+    border-radius: 2px !important;
+  background-color: #FFFFFF;
+  
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 textarea{
+    margin-top: 15px; 
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .top_label div.ginput_container{
+    margin-top:0 !important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gfield input::placeholder,
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gfield textarea::placeholder{
+ opacity: 0.5;
+  color: #100040;
+  font-family: 'Gilroy';
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 28px; 
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 #field_10_38 label{
+    opacity:0;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_button{
+	font-family: "Red Hat Display";
+	background-color: #fff;
+	border: 1px solid #100040 !important;
+	color:#100040;
+	border-radius: 50px !important;
+	font-size: 12px !important;
+	font-weight: bold;
+	padding: 16.5px 30px;
+	letter-spacing:1px !important;
+	line-height: 16px !important;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	outline: none;
+	transition: .3s ease;
+	max-width:122px;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_button:hover,.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_button:focus{
+	background-color: #100040;
+	border-color: #100040;
+	color: #fff !important;
+	text-decoration: none;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .ginput_container_select{
+    position:relative;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .ginput_container_select:before {
+    content: " ";
+    background: #fff;
+    width: 50px;
+    height: 90%;
+    display: block;
+    position: absolute;
+    right: 4px;
+    top: 0;
+    margin: auto;
+    bottom: 0;
+    pointer-events: none;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .ginput_container_select:after{
+    content: url(/wp-content/uploads/2021/04/arrow-down-solid.svg);
+    width: 11px;
+    height: 24px;
+    display: block;
+    position: absolute;
+    right: 17px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    pointer-events: none;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gform_wrapper .gform_footer{
+    padding-top:5px !Important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .validation_error{
+    display:none;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .gfield_error{
+    padding-top:0 !Important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 .validation_message{
+    background: transparent !important;
+    box-shadow: none !important;
+    color: red !important;
+    bottom: unset !important;
+    left: 0px;
+    padding-left: 0 !important;
+    position: relative !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+.elementor-7060 .elementor-element.elementor-element-10382f8 option{
+    color:#100040 !important;
+}/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-be9149b */.elementor-7060 .elementor-element.elementor-element-be9149b{
+    position: absolute;
+    top:60px;
+    left: -150px;
+}
+.elementor-7060 .elementor-element.elementor-element-be9149b img{
+    max-width: 355px;
+}
+
+@media(max-width:767px){
+    .elementor-7060 .elementor-element.elementor-element-be9149b{
+        position:relative;
+        left:0;
+        right:0;
+        top:0;
+        margin:auto;
+    }
+    .elementor-7060 .elementor-element.elementor-element-be9149b img{
+        max-width:250px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-bf846ab */.elementor-7060 .elementor-element.elementor-element-bf846ab:after{
+    content:'';
+    background: url(/wp-content/uploads/2021/05/gut-quiz-bg@2x.png) no-repeat;
+    background-size: cover;
+    width:383px;
+    height: 419px;
+    position: absolute;
+    left: -280px;
+    top:0;
+    bottom:0;
+    margin: auto;
+}
+
+@media(max-width:767px){
+    .elementor-7060 .elementor-element.elementor-element-bf846ab:after{
+        left:0;
+        top:170px;
+    }
+}/* End custom CSS */

@@ -1,0 +1,47 @@
+.elementor-5711 .elementor-element.elementor-element-303b4e5 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-5711 .elementor-element.elementor-element-fd56327 > .elementor-element-populated{padding:50px 200px 50px 50px;}.elementor-5711 .elementor-element.elementor-element-482f7c1 .elementor-heading-title{font-size:32px;font-weight:800;}.elementor-5711 .elementor-element.elementor-element-829ad6e{font-size:15px;}.elementor-5711 .elementor-element.elementor-element-d1338a3 .elementor-heading-title{font-size:18px;font-weight:800;}.elementor-5711 .elementor-element.elementor-element-d3d5d25 .elementor-button{fill:#100040;color:#100040;background-color:#FFFFFF;border-style:solid;border-width:1px 1px 1px 1px;border-color:#100040;border-radius:25px 25px 25px 25px;padding:16.5px 30px 16.5px 30px;}.elementor-5711 .elementor-element.elementor-element-d3d5d25 .elementor-button:hover, .elementor-5711 .elementor-element.elementor-element-d3d5d25 .elementor-button:focus{color:#FFFFFF;background-color:#100040;}.elementor-5711 .elementor-element.elementor-element-d3d5d25 .elementor-button:hover svg, .elementor-5711 .elementor-element.elementor-element-d3d5d25 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-5711 .elementor-element.elementor-element-bdb580e:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-5711 .elementor-element.elementor-element-bdb580e > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBDBD7;}.elementor-5711 .elementor-element.elementor-element-bdb580e > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5711 .elementor-element.elementor-element-bdb580e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5711 .elementor-element.elementor-element-927ace2{z-index:2;}#elementor-popup-modal-5711 .dialog-message{width:1000px;height:auto;}#elementor-popup-modal-5711{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-5711 .dialog-close-button{display:block;}#elementor-popup-modal-5711 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(min-width:767px){.elementor-5711 .elementor-element.elementor-element-fd56327{width:70%;}.elementor-5711 .elementor-element.elementor-element-bdb580e{width:30%;}}@media(max-width:1022px){.elementor-5711 .elementor-element.elementor-element-fd56327 > .elementor-element-populated{padding:40px 170px 40px 40px;}.elementor-5711 .elementor-element.elementor-element-fd56327{z-index:2;}#elementor-popup-modal-5711{justify-content:center;align-items:center;}}@media(max-width:766px){.elementor-5711 .elementor-element.elementor-element-fd56327 > .elementor-element-populated{padding:70px 15px 40px 15px;}.elementor-5711 .elementor-element.elementor-element-482f7c1 .elementor-heading-title{font-size:28px;}#elementor-popup-modal-5711{justify-content:center;align-items:center;}}/* Start custom CSS for heading, class: .elementor-element-482f7c1 */.elementor-5711 .elementor-element.elementor-element-482f7c1 span{
+    color: #F9C3BC;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-1b76042 */.elementor-5711 .elementor-element.elementor-element-1b76042 li{
+    font-size: 15px;
+    line-height: 28px;
+}/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-927ace2 */.elementor-5711 .elementor-element.elementor-element-927ace2{
+    position: absolute;
+    top:60px;
+    left: -150px;
+}
+.elementor-5711 .elementor-element.elementor-element-927ace2 img{
+    max-width: 355px;
+}
+
+@media(max-width:767px){
+    .elementor-5711 .elementor-element.elementor-element-927ace2{
+        position:relative;
+        left:0;
+        right:0;
+        top:0;
+        margin:auto;
+    }
+    .elementor-5711 .elementor-element.elementor-element-927ace2 img{
+        max-width:250px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-bdb580e */.elementor-5711 .elementor-element.elementor-element-bdb580e:after{
+    content:'';
+    background: url(/wp-content/uploads/2021/05/gut-quiz-bg@2x.png) no-repeat;
+    background-size: cover;
+    width:383px;
+    height: 419px;
+    position: absolute;
+    left: -280px;
+    top:0;
+    bottom:0;
+    margin: auto;
+}
+
+@media(max-width:767px){
+    .elementor-5711 .elementor-element.elementor-element-bdb580e:after{
+        left:0;
+        top:170px;
+    }
+}/* End custom CSS */
